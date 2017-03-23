@@ -1,7 +1,3 @@
-# Python 3.5 with librdkafka
+# Python 3.6.1 with librdkafka for experimentation
 
-[![](https://images.microbadger.com/badges/image/ucalgary/python-librdkafka.svg)](https://microbadger.com/images/ucalgary/python-librdkafka)
-
-[librdkafka](https://github.com/edenhill/librdkafka) is a C/C++ library for [Apache Kafka](https://kafka.apache.org). This image extends the [python official image](https://hub.docker.com/_/python/) by building and installing librdkafka. This is useful for Python modules that use librdkafka to communicate with Kafka.
-
-This image is currently maintained by the Research Management Systems project at the [University of Calgary](http://www.ucalgary.ca/).
+Forked from [University of Calgary](http://www.ucalgary.ca/).
