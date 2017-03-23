@@ -1,4 +1,4 @@
-# Python with librdkafka
+# Python 3.5 with librdkafka
 
 [![](https://images.microbadger.com/badges/image/ucalgary/python-librdkafka.svg)](https://microbadger.com/images/ucalgary/python-librdkafka)
 
