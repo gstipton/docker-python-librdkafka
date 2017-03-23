@@ -1,4 +1,4 @@
-FROM python:3.5-alpine
+FROM python:2.7.13-alpine
 
 ARG LIBRDKAFKA_NAME="librdkafka"
 ARG LIBRDKAFKA_VER="0.9.4"
